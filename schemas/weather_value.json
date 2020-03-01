@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "click_event",
+    "fields": [
+        {"name": "temperature", "type": "string"},
+        {"name": "status", "type": "string"}
+
+}
